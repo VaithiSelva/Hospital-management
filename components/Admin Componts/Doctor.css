@@ -1,0 +1,7 @@
+
+.check{
+    width: 60%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}

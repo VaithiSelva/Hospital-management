@@ -1,0 +1,20 @@
+.entry h1{
+    color:rgb(0, 149, 255);
+    font-size: 30px;
+    font-weight: bold;
+}
+.entry{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border-radius: 20px;
+    opacity: 0.9;
+}
+.leeve{
+    background-image: url(../../images/slide-three.jpg);
+    background-blend-mode: lighten;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 100px;
+    padding-top: 60px;
+}

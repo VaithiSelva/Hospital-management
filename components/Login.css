@@ -1,0 +1,15 @@
+.Sheet-1{
+    border-radius: 20px;
+    width: 550px;    
+    background-color:white;
+    margin: auto;
+    padding: 50px;
+    box-shadow: 10px 10px 10px rgb(144, 146, 147);
+    opacity: 0.9;
+    margin-top: 50px;
+}
+.Sheet-1 h1{
+    color:rgb(0, 149, 255);
+    font-size: 30px;
+    font-weight: bold;
+}

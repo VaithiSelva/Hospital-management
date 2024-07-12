@@ -1,0 +1,88 @@
+{
+  "op": [
+    {
+      "Name": "sivaram",
+      "Age": "23",
+      "Mobile": "7603806300",
+      "Purpose": "Headpain",
+      "Email": "vaithiselva2@23gmail.com",
+      "Date": "2024-5-20",
+      "id": 1
+    },
+    {
+      "Name": "sathish",
+      "Age": "23",
+      "Mobile": "7603806300",
+      "Purpose": "Headpain",
+      "Email": "vaithiselva2@23gmail.com",
+      "Date": "2024-5-21",
+      "id": 2
+    },
+    {
+      "Name": "Selva kumar",
+      "Age": "23",
+      "Mobile": "7603806300",
+      "Purpose": "Fever",
+      "Email": "vaithiselva2@23gmail.com",
+      "selctdoctor": "Accident",
+      "Date": "2024-5-21",
+      "id": 3
+    },
+    {
+      "Name": "soni",
+      "Age": "23",
+      "Mobile": "7432472333",
+      "Purpose": "Headpain",
+      "Email": "vaithiselva@gmail.com",
+      "selctdoctor": "Dr.list-2",
+      "Date": "2024-5-26",
+      "id": 4
+    }
+  ],
+  "employe": [
+    {
+      "Name": "vaithilingam ",
+      "Age": "23",
+      "Gender": "Male",
+      "Role": "Doctor",
+      "Mobile": "",
+      "Password": "Hospital@123",
+      "Email": "vaithiselva123@gmail.com",
+      "Address": "",
+      "id": 1
+    },
+    {
+      "Name": "Pon Arasu",
+      "Age": "22",
+      "Gender": "Male",
+      "Role": "HR",
+      "Mobile": "9876543210",
+      "Email": "ponarasu123@gmail.com",
+      "Password": "Hospital@1234",
+      "Address": "tenkasi",
+      "id": 2
+    },
+    {
+      "Name": "Sathish",
+      "Age": "23",
+      "Gender": "Male",
+      "Role": "Front Office",
+      "Mobile": "9876543213",
+      "Email": "sathish123@gmail.com",
+      "Password": "Hospital@12345",
+      "Address": "tenkasi",
+      "id": 3
+    },
+    {
+      "Name": "kiruba",
+      "Age": "24",
+      "Gender": "Male",
+      "Role": "HR",
+      "Mobile": "1234567890",
+      "Email": "prem123@gmail.com",
+      "Password": "Hospital@123456",
+      "Address": "tenkasi",
+      "id": 4
+    }
+  ]
+}

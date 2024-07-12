@@ -1,0 +1,32 @@
+.hiiden{
+    display: none;
+}
+.visible{
+    display: block;
+}
+.container-9{
+    background-color:rgb(35, 49, 58);
+    /* opacity: 0; */
+    width: 100%;
+    height: 80px;
+    border-bottom: 2px solid rgb(0, 149, 255); 
+    position: sticky;
+    top: 0;
+    z-index: 99;
+  
+}
+.user{
+    background-color: white;
+    padding: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 100px;
+}
+.www select{
+    border: none;
+    outline: 0;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 7px;
+}
